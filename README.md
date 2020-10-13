@@ -1,7 +1,7 @@
 # News Feed App
 
-React Js application used to update the latest news using NYTimes API's.
-Different filters and search features are available. built with React, Redux, JavaScript, and styled-components.
+React Js application used to update the latest news with the help of NYTimes APIs. 
+Different filters and search features are available. built with React, Redux, JavaScript, and styled-components.
 
 # Project Status
 
@@ -24,5 +24,5 @@ npm start
 
 * To Visit App:
 
-localhost:3000/
+localhost:3000/,
 localhost:3000/detail
